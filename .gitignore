@@ -1,0 +1,8 @@
+# Laravel environment file
+src/.env
+
+# Vendor
+src/vendor/
+
+# Logs
+src/storage/logs/
